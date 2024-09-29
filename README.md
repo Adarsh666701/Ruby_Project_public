@@ -1,7 +1,5 @@
 # README
-
-This is the repo that goes along with my Fullstack E-Commerce app tutorial. Check it out here https://youtu.be/hURUMwdCWuI?si=YxSO5hpRAESz6rEU
-
+* Adarsh Singh
 Things you may want to cover:
 
 * Ruby version
@@ -15,6 +13,3 @@ Locally we use sqlite3 as our database. This is already set up for you. In produ
 
 * Database initialization
 run `bin/rails db:migrate` to create the tables
-
-* Deployment instructions
-We deploy on Render create a free account here render.com
